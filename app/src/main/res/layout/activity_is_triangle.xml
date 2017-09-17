@@ -26,17 +26,17 @@
             android:layout_width="match_parent"
             android:layout_height="140dp"
             android:layout_weight="1"
-            android:src="@drawable/img_circle1" />
+            android:src="@drawable/img_circle1"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="140dp"
             android:layout_weight="1"
-            android:src="@drawable/img_elip" />
+             />
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="140dp"
             android:layout_weight="1"
-            android:src="@drawable/img_triangle8" />
+             />
     </LinearLayout>
     <LinearLayout
         android:layout_below="@+id/ll1"
@@ -49,17 +49,17 @@
             android:layout_width="match_parent"
             android:layout_height="140dp"
             android:layout_weight="1"
-            android:src="@drawable/img_square" />
+            />
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="140dp"
             android:layout_weight="1"
-            android:src="@drawable/img_circle" />
+            android:src="@drawable/img_circle"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="140dp"
             android:layout_weight="1"
-            android:src="@drawable/img_rectangle" />
+            />
     </LinearLayout>
     <LinearLayout
         android:id="@+id/ll3"
@@ -77,12 +77,12 @@
             android:layout_width="match_parent"
             android:layout_height="140dp"
             android:layout_weight="1"
-            android:src="@drawable/img_triangle7" />
+            android:src="@drawable/img_lucgiac"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="140dp"
             android:layout_weight="1"
-            android:src="@drawable/img_lucgiac" />
+            />
     </LinearLayout>
     <Button
         android:layout_below="@+id/ll3"
