@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MathApp</string>
     <string name="wellcome">CHÀO MỪNG ĐÉN VỚI CHƯƠNG TRÌNH HỌC TOÁN LỚP 1</string>
@@ -13,4 +14,13 @@
     <string name="chapter2">2.PHÉP CỘNG PHÉP TRỪ TRONG PHẠM VI 10</string>
     <string name="chapter3">3.CÁC SỐ TRONG PHẠM VI 100. ĐO ĐỘ DÀI. GIẢI BÀI TOÁN</string>
     <string name="chapter4">4.PHÉP CỘNG PHÉP TRỪ TRONG PHẠM VI 100. ĐO THỜI GIAN</string>
+    <string name="triangle">HÌNH TAM GIÁC</string>
+    <string name="square">HÌNH VUÔNG</string>
+    <string name="circle">HÌNH TRÒN</string>
+    <string name="segment">ĐOẠN THẲNG</string>
+    <string name="ms_segment">ĐO ĐỘ DÀI ĐOẠN THẲNG</string>
+    <string name="point_segment">ĐIỂM VÀ ĐOẠN THẲNG</string>
+    <string name="count_triangle">ĐẾM HÌNH TAM GIÁC</string>
+    <string name="count_square">ĐẾM HÌNH VUÔNG</string>
+    <string name="inout_circle">ĐIỂM TRONG VÀ NGOÀI HÌNH TRÒN</string>
 </resources>
