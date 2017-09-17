@@ -16,15 +16,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".OnboardActivity" />
+        <activity android:name=".IsTriangleActivity" />
         <activity android:name=".ListActivity" />
-        <activity android:name=".NumberActitivity" />
+        <activity android:name=".NumberActivity" />
+        <activity android:name=".TriangleActivity" />
+        <activity android:name=".OnboardActivity" />
         <activity android:name=".ResumeActivity" />
         <activity android:name=".ShapeActivity" />
         <activity android:name=".StudyActivity" />
-        <activity android:name=".TimeActivity" />
-        <activity android:name=".TriangleActivity" />
-        <activity android:name=".IsTriangleActivity"></activity>
+        <activity android:name=".TimeActivity"></activity>
     </application>
 
 </manifest>

@@ -31,12 +31,12 @@
             android:layout_width="match_parent"
             android:layout_height="140dp"
             android:layout_weight="1"
-             />
+            />
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="140dp"
             android:layout_weight="1"
-             />
+            />
     </LinearLayout>
     <LinearLayout
         android:layout_below="@+id/ll1"
@@ -93,6 +93,6 @@
         android:layout_marginLeft="20dp"
         android:textColor="@color/white"
         android:textStyle="bold"
-        android:background="@color/puple"/>
+        android:background="@color/purple"/>
 
 </RelativeLayout>
